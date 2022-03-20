@@ -82,7 +82,7 @@ Mo si = Bad
 Iuecc esmi = remember
 Muccie steci = trashcan
 esse steci - toilet
-esoru issce = Please
+issce ... esoru = Please
 im ri (oues), = tell me
 Si ssemleccu = good night
 Minus / mutus si = better / worse than
