@@ -421,6 +421,7 @@ ccicciu - to know
 estei - to be alive / to live
 ium - to use
 tel - to place
+ustel - to setup
 
 Numbers:
 um - one/a
