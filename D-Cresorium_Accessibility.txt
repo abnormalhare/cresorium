@@ -419,6 +419,8 @@ eeomus - to update / upgrade
 eeomits - to downgrade
 ccicciu - to know
 estei - to be alive / to live
+ium - to use
+tel - to place
 
 Numbers:
 um - one/a
