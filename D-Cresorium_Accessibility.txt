@@ -115,8 +115,8 @@ icce - nice
 issce - kind
 ust - new
 ost - old/ancient
-ejti - tall / top
-mimti - short / bottom
+ejti - tall / top / big
+mimti - short / bottom / small
 utcen - side
 uteji - wide
 utemti - thin
@@ -226,6 +226,7 @@ Euto - language
 -Mitom - Japan
 -Mecico - Mexico
 -Ceemetem - Canada
+-Reosom - Canary Islands
 Sorror - favor
 Esoreo - question
 Oore - year
@@ -281,7 +282,8 @@ Eiuo - sky
 Temiuo - sun / light
 Momiuo - moon / darkness
 Esse - bathroom
--Miteuso - anime
+-Miteuso - anime]
+Somim - island
 
 Time changes:
 Tel (place) -> Telt - Event
