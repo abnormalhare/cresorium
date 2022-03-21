@@ -220,13 +220,6 @@ Timoc - computer
 -Sortej - sandwich
 Eti - thing
 Euto - language
--Usessi - America
--Esmeimot - Spain
--Toissend - Germany
--Mitom - Japan
--Mecico - Mexico
--Ceemetem - Canada
--Reosom - Canary Islands
 Sorror - favor
 Esoreo - question
 Oore - year
@@ -238,7 +231,6 @@ Ouem - water / liquid
 ouemio - weather
 Timoter - internet
 Terrios - planet
-Coccime - Proxima Centuri b
 Miiuo - name
 Tue - animal
 -Turi - furry (human)
@@ -284,6 +276,16 @@ Momiuo - moon / darkness
 Esse - bathroom
 -Miteuso - anime]
 Somim - island
+
+Locations:
+-Usessi - America
+-Esmeimot - Spain
+-Toissend - Germany
+-Mitom - Japan
+-Mecico - Mexico
+-Ceemetem - Canada
+-Reosom - Canary Islands
+Coccime - Proxima Centuri b
 
 Time changes:
 Tel (place) -> Telt - Event
