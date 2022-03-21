@@ -201,9 +201,9 @@ riiue - that
 eqi - here
 eiui - there
 --
-U - and
-O - or
-E - but
+u - and
+o - or
+e - but
 --
 omiue - just (almost, just do it)
 meor - near
@@ -281,6 +281,7 @@ Eiuo - sky
 Temiuo - sun / light
 Momiuo - moon / darkness
 Esse - bathroom
+-Miteuso - anime
 
 Time changes:
 Tel (place) -> Telt - Event
@@ -423,6 +424,7 @@ ium - to use
 tel - to place
 ustel - to setup
 eiti - to touch / to interact
+-esmeuem - to cum (:/)
 
 Numbers:
 um - one/a
