@@ -278,6 +278,7 @@ Esse - bathroom
 Somim - island
 
 Locations:
+Coccime - Proxima Centuri b
 -Usessi - America
 -Esmeimot - Spain
 -Toissend - Germany
@@ -285,7 +286,6 @@ Locations:
 -Mecico - Mexico
 -Ceemetem - Canada
 -Reosom - Canary Islands
-Coccime - Proxima Centuri b
 
 Time changes:
 Tel (place) -> Telt - Event
@@ -294,8 +294,11 @@ meor (near) -> Meort - soon
 -I (person) -> It - Time Traveler (lol)
 Eti (thing) -> Etit - Clock
 
-People:
+Body Parts:
+Esmeti - head
 
+
+People:
 I - person / adult
 Usti - toddler
 Eji - baby / child
@@ -429,6 +432,9 @@ tel - to place
 ustel - to setup
 eiti - to touch / to interact
 -esmeuem - to cum (:/)
+
+Senses:
+
 
 Numbers:
 um - one/a
