@@ -276,6 +276,7 @@ Momiuo - moon / darkness
 Esse - bathroom
 -Miteuso - anime]
 Somim - island
+Estec - school
 
 Locations:
 Coccime - Proxima Centuri b
@@ -431,7 +432,9 @@ ium - to use
 tel - to place
 ustel - to setup
 eiti - to touch / to interact
--esmeuem - to cum (:/)
+-esmeuem - to cum
+esimtce - to teach
+ismetce - to learn
 
 Senses:
 
