@@ -448,8 +448,9 @@ uc
 me
 mi
 sse
-tiue - ten
-ejei - eleven
+tiue
+ejei - ten
+teju - eleven
 tuoe - dozen
 tuogen - gross
 tuoenogen - great gross
