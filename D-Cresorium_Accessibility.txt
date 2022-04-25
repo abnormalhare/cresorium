@@ -274,9 +274,10 @@ Eiuo - sky
 Temiuo - sun / light
 Momiuo - moon / darkness
 Esse - bathroom
--Miteuso - anime]
+-Miteuso - anime
 Somim - island
 Estec - school
+Timerro - text
 
 Locations:
 Coccime - Proxima Centuri b
@@ -435,6 +436,7 @@ eiti - to touch / to interact
 -esmeuem - to cum
 esimtce - to teach
 ismetce - to learn
+timemes - to type
 
 Senses:
 
