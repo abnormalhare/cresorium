@@ -231,6 +231,7 @@ Ouem - water / liquid
 ouemio - weather
 Timoter - internet
 Terrios - planet
+Temeros - sun/star
 Miiuo - name
 Tue - animal
 -Turi - furry (human)
