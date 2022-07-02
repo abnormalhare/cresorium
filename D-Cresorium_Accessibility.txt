@@ -92,6 +92,7 @@ Imti (#) = ___th grade
 Socer (emotion) = to be (emotion)
 ejito / mito sor = to go (back) to doing something
 ___ cre temeioui = to be ___ years old
+Sir cre temeioui = Happy Birthday
 
 Pronouns:
 ri - i
@@ -439,6 +440,7 @@ esimtce - to teach
 ismetce - to learn
 timemes - to type
 tissi - to charge
+usteis - to birth
 
 Senses:
 
