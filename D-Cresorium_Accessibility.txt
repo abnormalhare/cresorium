@@ -92,7 +92,12 @@ Imti (#) = ___th grade
 Socer (emotion) = to be (emotion)
 ejito / mito sor = to go (back) to doing something
 ___ cre temeioui = to be ___ years old
-Sir cre temeioui = Happy Birthday
+sir cre temeioui = Happy Birthday
+
+mo ouesu = stop talking / silent / to be silent
+mimti oues = quiet voice / to be quiet
+ecei oues = normal voice / to speak up
+ejti oues = loud voice / to yell / to shout / "come here" after trying to talk to someone from far away
 
 Pronouns:
 ri - i
@@ -117,6 +122,7 @@ issce - kind
 ust - new
 ost - old/ancient
 ejti - tall / top / big
+ecei - middle / normal
 mimti - short / bottom / small
 utcen - side
 uteji - wide
@@ -135,6 +141,7 @@ mutomsi - hard
 omiuoso - almost impossible
 moesor - implausible
 mosori - impossible
+mocei - random
 
 Emotions:
 ijteri - happy
@@ -280,6 +287,7 @@ Esse - bathroom
 Somim - island
 Estec - school
 Timerro - text
+Mocrecc - goal
 
 Locations:
 Coccime - Proxima Centuri b
@@ -391,6 +399,8 @@ esmi - to think
 sorol - to do again
 emre - to be able
 mocciu - to move
+imoccu - to walk
+moimoc - to roam
 sumor - to summon
 intere - to send a message
 miiuim - to want
@@ -436,6 +446,7 @@ iomrit - to encrypt
 miorit - to decrypt
 mloessi - to store
 esorisc - to help
+isoris - to participate
 eeomus - to update / upgrade
 eeomits - to downgrade
 ccicciu - to know
