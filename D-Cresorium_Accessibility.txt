@@ -299,8 +299,16 @@ meor (near) -> Meort - soon
 Eti (thing) -> Etit - Clock
 
 Body Parts:
-Esmeti - head
-
+Eselimi - head
+Esmi - brain
+Oueje - eye
+Esor - ear
+Celom - body
+Celimi - neck
+Cetei - heart
+Cetemise - artery
+Cetejor - vein
+Eicem - lungs
 
 People:
 I - person / adult
@@ -374,7 +382,7 @@ coocc - to play
 erro - going to
 rocce - to go to
 oues - to speak / to talk
-esor - to ask / to wonder
+esor - to ask / to wonder / to listen
 cercce - to vote
 meisse - to wait
 temisse - to wait really long
@@ -401,8 +409,8 @@ ouejet - to watch
 meccesso - to need
 cciccetu - to grow/to increase
 temeioui - to age
-mimecseit - to oppose / to object
-ejouort - to agree / to be for
+mimeset - to oppose / to object / to go out
+jouor - to agree / to be for / to go in
 ouioue - to laugh
 mutus - to add
 minus - to remove
