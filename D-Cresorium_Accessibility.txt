@@ -76,10 +76,10 @@ Punctuation:
 ¿¡!? = suprise
 
 Phrases/Idioms:
-Mo esmi = Stupid
-Mo rocce = Stop
-Mo si = Bad
-Iuecc esmi = remember
+mo esmi = Stupid / Unknowledgable / Has been taken down a grade
+mo rocce = Stop / Halt / End
+mo si = Bad
+esmi mol = remember / recall / regroup / "think again"
 Muccie steci = trashcan
 esse steci - toilet
 issce ... esoru = Please
@@ -242,8 +242,8 @@ Meeretis - parenthesis
 Umeti - something
 Mermo - verb
 it - time
-Iuest - start
-Iuost - end
+Rocce - start
+Morcce - end
 Muccie - bucket
 Steci - trash/garbage
 Eutise - video
@@ -380,13 +380,14 @@ iuuso - to like/to talk of something physical
 etis - to eat
 coocc - to play
 erro - going to
-rocce - to go to
+rocce - to go to / to start
 oues - to speak / to talk
 esor - to ask / to wonder / to listen
 cercce - to vote
 meisse - to wait
 temisse - to wait really long
 sor - to do
+esmi - to think
 sorol - to do again
 emre - to be able
 mocciu - to move
