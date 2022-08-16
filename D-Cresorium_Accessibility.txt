@@ -462,6 +462,7 @@ timemes - to type
 tissi - to charge
 usteis - to birth
 oui - there is
+miiuo - to name
 
 Senses:
 
