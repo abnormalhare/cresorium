@@ -206,8 +206,8 @@ imutele - into
 et - the
 tiiue - this
 riiue - that
-eqi - here
-eiui - there
+eci - here
+eiui - there (location)
 --
 u - and
 o - or
@@ -461,6 +461,7 @@ ismetce - to learn
 timemes - to type
 tissi - to charge
 usteis - to birth
+oui - there is
 
 Senses:
 
