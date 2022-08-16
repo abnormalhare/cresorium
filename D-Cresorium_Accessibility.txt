@@ -203,6 +203,7 @@ jece - by
 memiec - along
 tecessi - between
 imutele - into
+umorcre - because
 --
 et - the
 tiiue - this
@@ -291,6 +292,7 @@ Timerro - text
 Mocrecc - goal
 Ustesmi - news
 Ustemero - headline
+umoriuu - cause
 
 Locations:
 Coccime - Proxima Centuri b
@@ -469,6 +471,7 @@ oui - there is
 miiuo - to name
 iume - to let (something happen)
 mocimimi - to explode
+umoriuu - to cause
 
 Senses:
 
