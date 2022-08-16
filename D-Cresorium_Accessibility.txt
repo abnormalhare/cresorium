@@ -245,7 +245,7 @@ Miiuo - name
 Tue - animal
 -Turi - furry (human)
 Secce - chat
-Merro - word
+Merro - word / phrase
 Meeretis - parenthesis
 Umeti - something
 Mermo - verb
@@ -289,6 +289,8 @@ Somim - island
 Estec - school
 Timerro - text
 Mocrecc - goal
+Ustesmi - news
+Ustemero - headline
 
 Locations:
 Coccime - Proxima Centuri b
