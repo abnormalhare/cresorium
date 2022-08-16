@@ -193,6 +193,7 @@ or - from
 Im - to
 me - of
 imu - in
+em - on
 loccs - with
 itej - if
 itejt - when
@@ -305,6 +306,7 @@ Teli (house) -> Telit - Party
 meor (near) -> Meort - soon
 -I (person) -> It - Time Traveler (lol)
 Eti (thing) -> Etit - Clock
+em (on) -> emt - on (time)
 
 Body Parts:
 Eselimi - head
