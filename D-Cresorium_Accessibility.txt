@@ -298,7 +298,8 @@ Mocrecc - goal
 Ustesmi - news
 Ustemero - headline
 umoriuu - cause
-ostesmi - history
+Ostesmi - history
+Ismetel - class
 
 Locations:
 Coccime - Proxima Centuri b
