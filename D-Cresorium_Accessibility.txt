@@ -85,18 +85,16 @@ mo esmi = Stupid / Unknowledgable / Has been taken down a grade
 mo rocce = Stop / Halt / End
 mo si = Bad
 esmi mol = remember / recall / regroup / "think again"
-Muccie steci = trashcan
+Muccie steci = trashcan / recycle bin
 esse steci - toilet
-issce ... esoru = Please
-im ri (oues), = tell me
-Si ssemleccu = good night
+issce ... esoru = Please / to plead
+im ri ... oues, = tell me
 Minus / mutus si = better / worse than
 Imti (#) = ___th grade
 (Sium) (#)elsem = (Perfect) __-sided shape
-(Adjective) sou = (Adj)ful / i.e. Hope -> Hopeful
 Socer (emotion) = to be (emotion)
 ejito / mito sor = to go (back) to doing something
-___ cre temeioui = to be ___ years old
+___ cre temeioui = to be ___ years old / to grow up
 sir cre temeioui = Happy Birthday
 
 mo ouesu = stop talking / silent / to be silent
@@ -105,9 +103,9 @@ ecei oues = normal voice / to speak up
 ejti oues = loud voice / to yell / to shout / "come here" after trying to talk to someone from far away
 
 Pronouns:
-ri - i
-ti - you
-ci - it
+ri - i (rij - we: inculsive / rije - we: exclusive)
+ti - you (tij - yall: full group / tije - yall: specified group)
+ci - it (cij - they: people you know / cije - they: people you don't know)
 eci - he/she
 je - he
 me - she
