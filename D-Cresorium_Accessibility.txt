@@ -58,14 +58,11 @@ Dipthongs and digraphs (Double consonants and vowels):
 [  ] rr = roll      (Spanish: pe[rr]o)
 [  ] ou at end = ow ([Ou]ch)
 
-Noun Prefixes:
-[  ] i = object     (I -> Me)
-[  ] e = every      (Cat -> Every cat)
-
 Noun Suffixes:
 [  ] os = Possesive (Dog -> Dog's)
 [  ] j = plural / v -> adj     (Dog -> Dogs) / (to eat -> (it's an) eaten (thing))
 [  ] t = time       (Close - > Soon)
+[  ] e = every      (Cat -> Every cat)
 
 Verb Suffixes:
 [  ] 0 = to __ / Present         (to like / Like)
