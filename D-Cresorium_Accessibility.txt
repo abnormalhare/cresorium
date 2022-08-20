@@ -56,7 +56,7 @@ Dipthongs and digraphs (Double consonants and vowels):
 [  ] ss = /z/       ([z]ipper)
 [  ] cc = /g/       ([g]reat)
 [  ] rr = roll      (Spanish: pe[rr]o)
-[  ] ou at end = ow ([Ou]ch)
+[  ] ou = /æo/      (similar to [Ou]ch)
 
 Noun Suffixes:
 [  ] os = Possesive (Dog -> Dog's)
